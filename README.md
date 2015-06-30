@@ -1,2 +1,1 @@
-# random
-Función que genera numero aleatorio entre 0 y 1
+Random es una función que genera números aleatorios entre 0 y 1 y muestra el resultado por consola
